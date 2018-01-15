@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\psz\15-1-2018\15-1-2018\bin\Debug\15-1-2018.exe.config
+C:\Users\local\Desktop\psz\15-1-2018\15-1-2018\bin\Debug\15-1-2018.exe
+C:\Users\local\Desktop\psz\15-1-2018\15-1-2018\bin\Debug\15-1-2018.pdb
+C:\Users\local\Desktop\psz\15-1-2018\15-1-2018\obj\Debug\15-1-2018.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\psz\15-1-2018\15-1-2018\obj\Debug\15-1-2018.exe
+C:\Users\local\Desktop\psz\15-1-2018\15-1-2018\obj\Debug\15-1-2018.pdb
